@@ -1,0 +1,3 @@
+# Opcional: rodar os testes com pytest (também rodam com: python -m unittest discover -s testes -t .)
+-r requirements.txt
+pytest>=8

@@ -1,0 +1,2 @@
+# Interface (Qt para Python). É o único pacote necessário para usar o app.
+PySide6>=6.6

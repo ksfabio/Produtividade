@@ -1,0 +1,14 @@
+dados.db
+backup/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+testes/capturas/
+erros.log
+pacotes/
+icone.ico
+dados-antes-v*.db
+.teste-escrita
+*.db-journal
+*.novo
